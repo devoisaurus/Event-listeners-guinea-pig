@@ -1,1 +1,2 @@
-# Event-listeners-guinea-pig
+# Event-listeners-guinea-pig exercise
+
